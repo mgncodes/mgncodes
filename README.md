@@ -40,7 +40,7 @@ I'm currently pursuing my BTech in Computer Science and Engineering. I love to c
 - Machine Learning Algorithms 💻
 
 ### Connect...
-<a href="https://linkedin.com/nithiyashreemg">
+<a href="https://linkedin.com/in/nithiyashreemg">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:mgnithisvm123@gmail.com">
