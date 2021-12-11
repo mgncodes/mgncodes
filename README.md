@@ -8,11 +8,14 @@ I'm currently pursuing my BTech in Computer Science and Engineering. I love to c
 
 <a href="https://hackerrank.com/mgn_codes">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
-</a> <a href="https://hackerearth.com/@mgn_codes">
+</a> 
+<a href="https://hackerearth.com/@mgn_codes">
   <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="HackerEarth">
-</a> <a href="https://codechef.com/users/mgn_codes">
+</a> 
+<a href="https://codechef.com/users/mgn_codes">
   <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef">
-</a> <a href="https://leetcode.com/mgn_codes">
+</a> 
+<a href="https://leetcode.com/mgn_codes">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
 </a>
 
@@ -34,11 +37,15 @@ I'm currently pursuing my BTech in Computer Science and Engineering. I love to c
 ### My Skillsets...
 - Mobile App development 📱
 - Data Analysis and Visualization 📊
-- Machine Learning models 💻
+- Machine Learning Algorithms 💻
 
 ### Connect...
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="https://linkedin.com/nithiyashreemg">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:mgnithisvm123@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 <!--
 **mgncodes/mgncodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
