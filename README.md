@@ -2,7 +2,7 @@
 
 ### Something about myself...
 
-I'm currently pursuing my BTech in Computer Science and Engineering. I love to code and develop useful products. 👩‍💻
+I'm a Software Engineer and I love to code and develop useful products. 👩‍💻
 
 ### I practice coding in:
 
