@@ -4,7 +4,7 @@
 
 I'm currently pursuing my BTech in Computer Science and Engineering. I love to code and develop useful products. 👩‍💻
 
-### I love to do Competitive Programming <❤> I practice coding in...
+### I practice coding in:
 
 <a href="https://hackerrank.com/mgn_codes">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
@@ -36,6 +36,7 @@ I'm currently pursuing my BTech in Computer Science and Engineering. I love to c
 
 ### My Skillsets...
 - Mobile App development 📱
+- Backend development (API Design and Development)
 - Data Analysis and Visualization 📊
 - Machine Learning Algorithms 💻
 
